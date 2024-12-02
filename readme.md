@@ -2,7 +2,7 @@
 
 An app that fetches wallet contents directly from the blockchain, providing real-time market information. Quick options are available to make the check or managment easier. Perfect for keeping track of your assets at a glance.
 
- ![image]()
+ ![image](https://github.com/DRUEVISUAL/sol_wallet_manager/blob/main/screenshot.jpg?raw=true)
 
 ## Table of contents
 
